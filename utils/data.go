@@ -9,7 +9,7 @@ import (
 )
 
 const (
-	startRow = 7
+	startRow = 8
 	endRow   = 147
 )
 
